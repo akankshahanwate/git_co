@@ -1,4 +1,4 @@
 function sayName()
 {
-    console.log("hey I'm new fuction");
+    console.log("hey I'm hero");
 }
